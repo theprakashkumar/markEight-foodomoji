@@ -89,7 +89,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <div className="app-heading">Foodomoji</div>
+      <div className="app-heading">This is Foodomoji</div>
       <input className="app-input" onChange={emojiInputHandler}></input>
       <div className="app-emoji-meaning">{emojiMeaning}</div>
       <div className="app-emoji-collection">
