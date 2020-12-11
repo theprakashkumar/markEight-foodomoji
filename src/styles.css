@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+.App {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.app-heading {
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+.app-input {
+  width: 80%;
+  max-width: 300px;
+  border: 2px solid rgb(48, 45, 45);
+  padding: 7px;
+  font-size: 20px;
+}
+
+.app-emoji-meaning {
+  font-size: 28px;
+  margin-top: 15px;
+}
+
+.app-emoji-collection {
+  margin: 20px auto;
+  width: 80%;
+  max-width: 650px;
+  min-width: 300px;
+}
+.app-emoji {
+  margin: 8px;
+  font-size: 30px;
+  cursor: pointer;
+}
